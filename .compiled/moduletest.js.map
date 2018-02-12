@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/moduletest.js"],"names":["module","exports","x","console","log"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB,UAAUC,CAAV,EAAa;AAC1BC,YAAQC,GAAR,CAAYF,CAAZ;AACH,CAFD","file":"moduletest.js","sourcesContent":["module.exports = function (x) {\n    console.log(x);\n}"]}
